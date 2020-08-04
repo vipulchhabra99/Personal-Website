@@ -13,8 +13,10 @@ skills:
   - MongoDB
 ---
 
-Hello! I'm Vipul Chhabra, a CSD Sophomore at IIIT Hyderabad, India who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello, I'm Vipul Chhabra , Computer Science Undergraduate at IIIT Hyderabad. Currently, pursuing my research in the field of Data Science at (DSAC Lab IIIT-H).
 
-I work on a wide variety of interesting and meaningful projects on a daily basis.
+I'm a person with variety of interests but still to find my passion.
+
+I like to learn and explore new things :) .
 
 Here's a few technologies I've been working with recently:

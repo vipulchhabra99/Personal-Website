@@ -5,4 +5,4 @@ subtitle: 'I build things for the web.'
 contactText: 'Get In Touch'
 ---
 
-I'm a CSD Sophomore at IIIT Hyderabad, India specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+Hello, I'm Vipul Chhabra , Computer Science Undergraduate at IIIT Hyderabad. Currently, pursuing my research in the field of Data Science at (DSAC Lab IIIT-H).

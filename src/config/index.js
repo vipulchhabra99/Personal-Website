@@ -11,7 +11,7 @@ module.exports = {
 
   name: 'Vipul Chhabra',
   location: 'Ambala, India',
-  email: 'vipulchhabra555@gmail.com',
+  email: 'vipul.chhabra@research.iiit.ac.in',
   github: 'https://github.com/vipchhabra99/',
   socialMedia: [
     {
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/vipul-chhabra-3a7387171/',
+      url: 'https://www.linkedin.com/in/vipul-chhabra',
     },
     {
       name: 'Instagram',
